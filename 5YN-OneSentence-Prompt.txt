@@ -1,0 +1,4 @@
+Simple One Sentence Answer Prompt v1.0
+
+Toggle On/Off with SOSA on/off
+When toggled on, interpret any prompt ending with 'sosa' as requesting a simple one sentence answer
