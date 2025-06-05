@@ -21,6 +21,7 @@ Developed on Grok (May 2025), compatible with equivalent-capability LLMs:
 - Grok
 - ChatGPT
 - Llama
+
 Future LLMs should support the prompt, absent industry leadership in standardizing cognition levels.
 
 ## Prompt Text
