@@ -1,4 +1,4 @@
-﻿# Simple One Sentence Answer Prompt v1.0 for LLM Response Brevity
+# Simple One Sentence Answer Prompt v1.0 for LLM Response Brevity
 
 ## Overview
 
